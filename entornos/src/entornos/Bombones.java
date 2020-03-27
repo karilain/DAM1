@@ -19,7 +19,7 @@ public class Bombones {
     protected String rellenoTextura;
     protected static String[] rellenosTexturas = {"cremosa", "untuosa", "crujiente", "gelatinosa", "pastosa", "aireada"};
     protected String cobertura;
-    protected static String[] coberturas = {"chocolate negro", "chocolate Blanco", "chocolate con leche"};
+    protected static String[] coberturas = {"choco negro", "chocolate Blanco", "chocolate con leche"};
     protected String azucar;
     protected static String[] azucares = {"sin azucar", "con azucar", "0% azucar"};
     protected static int numBombones;
